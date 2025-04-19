@@ -17,6 +17,7 @@ This memory game challenges players to find matching pairs of cards in a 4x4 gri
 4. If they don't match, they flip back over
 5. Continue until all pairs are found
 6. A congratulation message appears when you win
+7. You can choose the option to play again and all cards shuffle
 
 ## Demo Videos
 
